@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33712.159
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Калькулятор ООП_Карпова", "Калькулятор ООП_Карпова\Калькулятор ООП_Карпова.csproj", "{8ED14559-65C7-4382-A719-6DDA1AA72122}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8ED14559-65C7-4382-A719-6DDA1AA72122}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8ED14559-65C7-4382-A719-6DDA1AA72122}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8ED14559-65C7-4382-A719-6DDA1AA72122}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8ED14559-65C7-4382-A719-6DDA1AA72122}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {AC446E4B-6FFD-487C-B1E7-8FD55067635E}
+	EndGlobalSection
+EndGlobal

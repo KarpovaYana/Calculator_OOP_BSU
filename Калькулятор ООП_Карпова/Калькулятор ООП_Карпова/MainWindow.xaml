@@ -1,0 +1,39 @@
+﻿<Window x:Class="Калькулятор_ООП_Карпова.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Калькулятор_ООП_Карпова"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="497" Width="300">
+    <Grid HorizontalAlignment="Left" Width="289" Margin="0,0,0,-1">
+        <Grid.RowDefinitions>
+            <RowDefinition/>
+            <RowDefinition Height="0*"/>
+            <RowDefinition Height="0*"/>
+        </Grid.RowDefinitions>
+        <Label Content="Калькулятор" HorizontalAlignment="Left" Margin="10,10,0,0" VerticalAlignment="Top" FontSize="33" FontWeight="Bold" Width="259"/>
+        <TextBox x:Name="textCalc" HorizontalAlignment="Center" Margin="0,76,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="257" Height="48" TextAlignment="Right" FontSize="27" PreviewKeyDown="textCalc_KeyDown" PreviewKeyUp="textCalc_KeyUp"/>
+        <Button x:Name="_7" Content="7" HorizontalAlignment="Left" Height="60" Margin="14,193,0,0" VerticalAlignment="Top" Width="60" FontSize="27" Click="Button_Click"/>
+        <Button x:Name="_8" Content="8" HorizontalAlignment="Left" Height="60" Margin="81,193,0,0" VerticalAlignment="Top" Width="60" FontSize="27" Click="Button_Click"/>
+        <Button x:Name="_9" Content="9" HorizontalAlignment="Left" Height="60" Margin="146,193,0,0" VerticalAlignment="Top" Width="60" FontSize="27" RenderTransformOrigin="-0.033,0.495" Click="Button_Click"/>
+        <Button x:Name="multiply" Content="x" HorizontalAlignment="Left" Height="60" Margin="211,193,0,0" VerticalAlignment="Top" Width="60" FontSize="27" Click="sign_Click"/>
+        <Button x:Name="_4" Content="4" HorizontalAlignment="Left" Height="60" Margin="15,258,0,0" VerticalAlignment="Top" Width="60" FontSize="27" Click="Button_Click"/>
+        <Button x:Name="_5" Content="5" HorizontalAlignment="Left" Height="60" Margin="82,258,0,0" VerticalAlignment="Top" Width="60" FontSize="27" Click="Button_Click"/>
+        <Button x:Name="_6" Content="6" HorizontalAlignment="Left" Height="60" Margin="147,258,0,0" VerticalAlignment="Top" Width="60" FontSize="27" RenderTransformOrigin="-0.033,0.495" Click="Button_Click"/>
+        <Button x:Name="minus" Content="-" HorizontalAlignment="Left" Height="60" Margin="212,258,0,0" VerticalAlignment="Top" Width="60" FontSize="27" Click="sign_Click"/>
+        <Button x:Name="_1" Content="1" HorizontalAlignment="Left" Height="60" Margin="15,322,0,0" VerticalAlignment="Top" Width="60" FontSize="27" Click="Button_Click"/>
+        <Button x:Name="_2" Content="2" HorizontalAlignment="Left" Height="60" Margin="82,322,0,0" VerticalAlignment="Top" Width="60" FontSize="27" Click="Button_Click"/>
+        <Button x:Name="_3" Content="3" HorizontalAlignment="Left" Height="60" Margin="147,322,0,0" VerticalAlignment="Top" Width="60" FontSize="27" RenderTransformOrigin="-0.033,0.495" Click="Button_Click"/>
+        <Button x:Name="plus" Content="+" HorizontalAlignment="Left" Height="60" Margin="212,322,0,0" VerticalAlignment="Top" Width="60" FontSize="27" Click="sign_Click"/>
+        <Button x:Name="_0" Content="0" HorizontalAlignment="Left" Margin="14,388,0,0" Width="60" FontSize="27" Click="Button_Click" Height="60" VerticalAlignment="Top"/>
+        <Button x:Name="scopeLeft" Content="(" HorizontalAlignment="Left" Margin="81,388,0,0" Width="60" FontSize="27" Click="sign_Click" Height="60" VerticalAlignment="Top"/>
+        <Button x:Name="scopeRight" Content=")" HorizontalAlignment="Left" Margin="146,388,0,0" Width="60" FontSize="27" RenderTransformOrigin="-0.033,0.495" Click="sign_Click" Height="60" VerticalAlignment="Top"/>
+        <Button x:Name="equals" Content="=" HorizontalAlignment="Left" Margin="211,388,0,0" Width="60" FontSize="27" Height="60" VerticalAlignment="Top" Click="equals_Click"/>
+        <Button x:Name="C" Content="C" HorizontalAlignment="Left" Height="60" Margin="14,129,0,0" VerticalAlignment="Top" Width="60" FontSize="27" Click="C_Click"/>
+        <Button x:Name="minusx" Content="-x" HorizontalAlignment="Left" Height="60" Margin="81,129,0,0" VerticalAlignment="Top" Width="60" FontSize="27" Click="minusx_Click"/>
+        <Button x:Name="procent" Content="%" HorizontalAlignment="Left" Height="60" Margin="146,129,0,0" VerticalAlignment="Top" Width="60" FontSize="27" RenderTransformOrigin="-0.033,0.495" Click="sign_Click"/>
+        <Button x:Name="div" Content="/" HorizontalAlignment="Left" Height="60" Margin="211,129,0,0" VerticalAlignment="Top" Width="60" FontSize="27" Click="sign_Click"/>
+
+    </Grid>
+</Window>

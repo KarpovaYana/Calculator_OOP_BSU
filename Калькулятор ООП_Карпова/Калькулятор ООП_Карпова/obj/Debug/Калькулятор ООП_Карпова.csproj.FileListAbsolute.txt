@@ -1,0 +1,16 @@
+C:\Users\ляля\source\repos\Калькулятор ООП_Карпова\Калькулятор ООП_Карпова\bin\Debug\Калькулятор ООП_Карпова.exe.config
+C:\Users\ляля\source\repos\Калькулятор ООП_Карпова\Калькулятор ООП_Карпова\bin\Debug\Калькулятор ООП_Карпова.exe
+C:\Users\ляля\source\repos\Калькулятор ООП_Карпова\Калькулятор ООП_Карпова\bin\Debug\Калькулятор ООП_Карпова.pdb
+C:\Users\ляля\source\repos\Калькулятор ООП_Карпова\Калькулятор ООП_Карпова\obj\Debug\Калькулятор ООП_Карпова.csproj.AssemblyReference.cache
+C:\Users\ляля\source\repos\Калькулятор ООП_Карпова\Калькулятор ООП_Карпова\obj\Debug\Калькулятор ООП_Карпова.csproj.SuggestedBindingRedirects.cache
+C:\Users\ляля\source\repos\Калькулятор ООП_Карпова\Калькулятор ООП_Карпова\obj\Debug\MainWindow.g.cs
+C:\Users\ляля\source\repos\Калькулятор ООП_Карпова\Калькулятор ООП_Карпова\obj\Debug\App.g.cs
+C:\Users\ляля\source\repos\Калькулятор ООП_Карпова\Калькулятор ООП_Карпова\obj\Debug\Калькулятор ООП_Карпова_MarkupCompile.cache
+C:\Users\ляля\source\repos\Калькулятор ООП_Карпова\Калькулятор ООП_Карпова\obj\Debug\Калькулятор ООП_Карпова_MarkupCompile.lref
+C:\Users\ляля\source\repos\Калькулятор ООП_Карпова\Калькулятор ООП_Карпова\obj\Debug\MainWindow.baml
+C:\Users\ляля\source\repos\Калькулятор ООП_Карпова\Калькулятор ООП_Карпова\obj\Debug\Калькулятор ООП_Карпова.g.resources
+C:\Users\ляля\source\repos\Калькулятор ООП_Карпова\Калькулятор ООП_Карпова\obj\Debug\Калькулятор_ООП_Карпова.Properties.Resources.resources
+C:\Users\ляля\source\repos\Калькулятор ООП_Карпова\Калькулятор ООП_Карпова\obj\Debug\Калькулятор ООП_Карпова.csproj.GenerateResource.cache
+C:\Users\ляля\source\repos\Калькулятор ООП_Карпова\Калькулятор ООП_Карпова\obj\Debug\Калькулятор ООП_Карпова.csproj.CoreCompileInputs.cache
+C:\Users\ляля\source\repos\Калькулятор ООП_Карпова\Калькулятор ООП_Карпова\obj\Debug\Калькулятор ООП_Карпова.exe
+C:\Users\ляля\source\repos\Калькулятор ООП_Карпова\Калькулятор ООП_Карпова\obj\Debug\Калькулятор ООП_Карпова.pdb
